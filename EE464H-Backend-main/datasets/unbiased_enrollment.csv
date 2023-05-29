@@ -1,0 +1,501 @@
+Gender,Race,Financial Aid,Age,Year
+Male,Black or African American,Yes,19,Sophomore
+Female,White,No,18,Senior
+Male,Black or African American,Yes,22,Senior
+Female,Black or African American,Yes,18,Senior
+Female,White,No,18,Junior
+Female,Two or More Races,No,18,Sophomore
+Female,White,Yes,18,Senior
+Female,Black or African American,No,22,Senior
+Male,White,No,20,Junior
+Female,White,Yes,21,Senior
+Male,White,Yes,18,Junior
+Male,Asian,Yes,20,Freshmen
+Female,White,Yes,20,Senior
+Female,White,No,18,Senior
+Female,White,Yes,22,Sophomore
+Female,Hispanic or Latino,No,22,Senior
+Male,Asian,Yes,21,Senior
+Male,White,Yes,19,Junior
+Male,White,Yes,18,Senior
+Female,Hispanic or Latino,Yes,21,Sophomore
+Female,White,Yes,19,Junior
+Female,White,Yes,20,Sophomore
+Male,Black or African American,Yes,22,Freshmen
+Male,Black or African American,No,21,Freshmen
+Female,White,Yes,18,Senior
+Female,White,No,22,Freshmen
+Male,White,No,18,Sophomore
+Female,Asian,Yes,22,Senior
+Female,White,No,22,Freshmen
+Female,White,Yes,18,Junior
+Male,Black or African American,Yes,19,Senior
+Male,White,Yes,19,Senior
+Female,White,No,21,Senior
+Female,White,No,19,Junior
+Female,White,No,21,Junior
+Female,Two or More Races,No,22,Junior
+Female,White,No,18,Freshmen
+Female,Two or More Races,No,22,Junior
+Male,White,No,22,Sophomore
+Male,White,Yes,18,Senior
+Male,White,Yes,19,Senior
+Male,White,No,18,Junior
+Female,White,Yes,22,Senior
+Female,White,No,21,Sophomore
+Female,White,Yes,19,Junior
+Female,White,No,19,Junior
+Female,White,Yes,20,Junior
+Male,White,Yes,19,Sophomore
+Female,White,No,18,Senior
+Male,White,Yes,22,Junior
+Female,Hispanic or Latino,Yes,18,Junior
+Male,White,No,21,Sophomore
+Female,White,No,18,Senior
+Female,White,No,18,Sophomore
+Male,White,Yes,21,Freshmen
+Male,Black or African American,Yes,22,Junior
+Male,Hispanic or Latino,Yes,21,Junior
+Female,White,Yes,18,Junior
+Female,White,Yes,18,Senior
+Female,White,Yes,19,Freshmen
+Male,Black or African American,Yes,21,Freshmen
+Female,Black or African American,No,19,Senior
+Female,Hispanic or Latino,Yes,22,Sophomore
+Male,White,Yes,22,Senior
+Male,White,Yes,19,Senior
+Male,Black or African American,Yes,18,Junior
+Male,White,Yes,22,Junior
+Female,Black or African American,Yes,18,Senior
+Female,Black or African American,No,20,Junior
+Male,White,Yes,19,Sophomore
+Female,Black or African American,Yes,18,Sophomore
+Female,Black or African American,Yes,19,Senior
+Male,White,Yes,18,Junior
+Female,White,Yes,21,Sophomore
+Female,White,Yes,18,Junior
+Female,White,Yes,22,Senior
+Male,White,No,18,Senior
+Male,White,No,22,Junior
+Male,White,No,22,Senior
+Male,Black or African American,Yes,20,Junior
+Male,Black or African American,Yes,20,Senior
+Male,White,Yes,19,Junior
+Female,White,No,21,Junior
+Female,White,No,22,Junior
+Male,White,No,22,Senior
+Male,White,No,20,Freshmen
+Male,Black or African American,No,19,Senior
+Male,White,Yes,18,Junior
+Female,White,Yes,20,Senior
+Male,Black or African American,No,22,Senior
+Female,White,No,21,Senior
+Male,Asian,No,18,Sophomore
+Female,White,Yes,21,Freshmen
+Male,White,Yes,19,Junior
+Male,White,Yes,19,Junior
+Female,Black or African American,Yes,18,Freshmen
+Male,Asian,No,19,Freshmen
+Male,White,No,21,Senior
+Male,White,Yes,18,Senior
+Female,White,Yes,19,Sophomore
+Female,White,Yes,21,Freshmen
+Female,Asian,Yes,20,Sophomore
+Female,White,Yes,22,Senior
+Male,Black or African American,Yes,18,Freshmen
+Male,Hispanic or Latino,No,21,Junior
+Female,White,No,18,Sophomore
+Male,White,No,19,Senior
+Female,White,No,22,Junior
+Female,White,Yes,22,Senior
+Female,Hispanic or Latino,Yes,19,Sophomore
+Male,White,Yes,21,Senior
+Male,White,Yes,19,Senior
+Female,White,Yes,19,Senior
+Male,White,No,21,Sophomore
+Female,Black or African American,Yes,21,Sophomore
+Female,Hispanic or Latino,No,18,Senior
+Male,Hispanic or Latino,Yes,20,Senior
+Male,White,Yes,20,Sophomore
+Male,White,Yes,21,Senior
+Female,White,Yes,20,Junior
+Female,White,Yes,18,Senior
+Female,Asian,Yes,18,Sophomore
+Female,Hispanic or Latino,Yes,20,Freshmen
+Female,White,Yes,19,Senior
+Female,White,Yes,18,Freshmen
+Female,Hispanic or Latino,Yes,18,Senior
+Female,White,Yes,19,Senior
+Female,White,Yes,20,Senior
+Female,White,No,22,Senior
+Female,Asian,No,19,Freshmen
+Female,Asian,No,19,Senior
+Female,White,No,20,Junior
+Female,Hispanic or Latino,No,20,Freshmen
+Male,White,Yes,22,Sophomore
+Male,White,Yes,18,Sophomore
+Male,White,No,21,Senior
+Female,White,Yes,22,Junior
+Male,White,Yes,22,Junior
+Male,White,Yes,22,Senior
+Female,Hispanic or Latino,No,20,Sophomore
+Male,White,No,22,Senior
+Female,White,Yes,19,Senior
+Female,White,Yes,20,Junior
+Female,Black or African American,No,21,Senior
+Male,White,No,19,Freshmen
+Male,White,Yes,19,Freshmen
+Male,White,Yes,19,Junior
+Female,Hispanic or Latino,Yes,21,Junior
+Female,White,Yes,18,Freshmen
+Female,White,No,18,Freshmen
+Male,White,Yes,19,Sophomore
+Female,White,Yes,20,Senior
+Female,White,No,21,Junior
+Female,White,No,18,Freshmen
+Male,White,Yes,22,Senior
+Male,White,No,22,Senior
+Female,White,No,20,Junior
+Male,White,No,20,Junior
+Female,Hispanic or Latino,No,20,Sophomore
+Female,White,Yes,18,Freshmen
+Female,White,No,18,Senior
+Female,White,No,18,Senior
+Male,Black or African American,Yes,18,Sophomore
+Male,White,No,21,Senior
+Male,White,Yes,19,Junior
+Male,White,Yes,19,Senior
+Female,White,Yes,22,Sophomore
+Male,Black or African American,No,19,Junior
+Female,White,No,22,Junior
+Female,Black or African American,No,20,Senior
+Male,White,No,18,Senior
+Female,White,No,18,Senior
+Male,White,Yes,20,Senior
+Male,White,Yes,22,Senior
+Female,White,No,21,Senior
+Female,Black or African American,Yes,20,Junior
+Female,Hispanic or Latino,Yes,22,Senior
+Female,White,Yes,18,Freshmen
+Female,White,No,21,Sophomore
+Female,Black or African American,No,21,Junior
+Male,White,Yes,20,Senior
+Female,White,Yes,19,Junior
+Male,Hispanic or Latino,No,19,Junior
+Female,Hispanic or Latino,No,19,Junior
+Female,White,Yes,18,Senior
+Female,Black or African American,Yes,22,Junior
+Female,Black or African American,Yes,19,Senior
+Male,Black or African American,No,18,Junior
+Male,White,Yes,19,Sophomore
+Female,White,No,22,Senior
+Male,White,Yes,22,Senior
+Male,White,No,19,Freshmen
+Female,Black or African American,Yes,18,Senior
+Female,White,Yes,19,Senior
+Male,White,Yes,20,Junior
+Male,Hispanic or Latino,Yes,21,Sophomore
+Male,White,No,18,Freshmen
+Male,White,Yes,20,Junior
+Male,Black or African American,No,18,Sophomore
+Male,White,Yes,22,Junior
+Female,White,Yes,21,Senior
+Female,White,Yes,22,Freshmen
+Male,Hispanic or Latino,No,22,Senior
+Female,White,No,22,Freshmen
+Female,White,Yes,22,Junior
+Female,Hispanic or Latino,Yes,19,Junior
+Female,White,Yes,19,Freshmen
+Female,White,No,19,Senior
+Male,Hispanic or Latino,Yes,21,Junior
+Male,White,No,20,Senior
+Male,White,No,21,Junior
+Female,White,Yes,18,Senior
+Female,Black or African American,Yes,18,Senior
+Male,Hispanic or Latino,Yes,21,Senior
+Female,White,Yes,22,Sophomore
+Male,White,Yes,18,Junior
+Female,White,No,20,Junior
+Female,Asian,No,21,Sophomore
+Female,Hispanic or Latino,Yes,21,Junior
+Female,White,Yes,18,Freshmen
+Male,Asian,Yes,21,Freshmen
+Male,White,Yes,20,Senior
+Female,White,No,20,Senior
+Female,White,No,20,Senior
+Male,White,Yes,22,Junior
+Female,White,Yes,21,Freshmen
+Female,Black or African American,No,20,Freshmen
+Female,White,Yes,22,Senior
+Male,White,No,19,Senior
+Female,Black or African American,Yes,21,Senior
+Female,White,Yes,18,Sophomore
+Male,Black or African American,No,19,Junior
+Male,White,No,21,Sophomore
+Female,White,Yes,19,Freshmen
+Male,White,Yes,18,Freshmen
+Male,Hispanic or Latino,Yes,21,Sophomore
+Male,White,Yes,22,Sophomore
+Male,White,Yes,18,Senior
+Male,White,Yes,22,Junior
+Female,White,Yes,22,Freshmen
+Female,Black or African American,No,18,Senior
+Female,White,Yes,19,Junior
+Female,Hispanic or Latino,Yes,19,Junior
+Female,White,No,20,Senior
+Male,Asian,Yes,18,Junior
+Male,White,No,20,Junior
+Male,White,Yes,22,Junior
+Female,White,Yes,18,Senior
+Male,White,No,21,Junior
+Male,Black or African American,Yes,21,Senior
+Male,White,No,18,Sophomore
+Male,White,Yes,21,Senior
+Female,White,Yes,22,Freshmen
+Male,Black or African American,Yes,19,Sophomore
+Male,Black or African American,No,21,Junior
+Male,White,Yes,22,Junior
+Male,White,Yes,20,Junior
+Male,White,No,21,Junior
+Male,White,No,19,Junior
+Male,White,Yes,18,Senior
+Male,White,Yes,19,Junior
+Female,White,Yes,20,Junior
+Female,White,Yes,18,Junior
+Female,White,Yes,22,Junior
+Female,White,Yes,18,Junior
+Female,Hispanic or Latino,Yes,18,Freshmen
+Female,White,Yes,18,Sophomore
+Male,White,Yes,19,Sophomore
+Male,Asian,No,18,Freshmen
+Male,White,Yes,20,Sophomore
+Male,White,Yes,21,Freshmen
+Male,Black or African American,Yes,21,Sophomore
+Male,White,No,20,Senior
+Female,White,Yes,18,Junior
+Male,White,Yes,19,Junior
+Female,White,Yes,20,Sophomore
+Male,White,Yes,19,Freshmen
+Male,White,No,18,Sophomore
+Male,White,Yes,18,Junior
+Male,White,Yes,18,Sophomore
+Female,Black or African American,Yes,18,Senior
+Male,White,No,20,Senior
+Male,White,Yes,22,Sophomore
+Female,White,No,19,Senior
+Male,Black or African American,Yes,22,Junior
+Male,White,No,18,Senior
+Male,White,No,18,Junior
+Male,White,No,22,Sophomore
+Male,White,Yes,19,Sophomore
+Female,White,Yes,19,Sophomore
+Female,White,Yes,18,Senior
+Male,White,Yes,21,Sophomore
+Male,White,Yes,21,Senior
+Male,White,Yes,21,Senior
+Male,White,Yes,22,Senior
+Male,White,Yes,22,Junior
+Male,Asian,Yes,22,Junior
+Male,Black or African American,Yes,20,Senior
+Male,White,Yes,19,Senior
+Female,White,No,20,Senior
+Male,Black or African American,No,22,Junior
+Male,White,No,21,Senior
+Female,Black or African American,Yes,19,Junior
+Male,White,No,22,Senior
+Male,White,Yes,22,Senior
+Male,White,No,19,Senior
+Male,Black or African American,Yes,20,Sophomore
+Male,Black or African American,No,19,Junior
+Male,Asian,Yes,20,Sophomore
+Male,Black or African American,Yes,20,Junior
+Male,White,No,18,Junior
+Female,White,No,21,Senior
+Male,Black or African American,No,19,Sophomore
+Female,White,Yes,22,Freshmen
+Male,White,Yes,22,Senior
+Female,White,Yes,20,Junior
+Male,White,No,22,Sophomore
+Female,White,Yes,21,Sophomore
+Male,Asian,Yes,19,Senior
+Female,White,Yes,21,Sophomore
+Male,White,No,22,Senior
+Female,White,Yes,18,Junior
+Male,Asian,Yes,21,Sophomore
+Male,White,No,21,Sophomore
+Female,White,Yes,20,Junior
+Male,White,No,20,Sophomore
+Male,White,No,19,Sophomore
+Male,White,Yes,18,Senior
+Female,White,Yes,21,Junior
+Female,Asian,Yes,22,Junior
+Male,White,No,19,Senior
+Male,Hispanic or Latino,Yes,20,Sophomore
+Male,White,Yes,20,Junior
+Male,White,Yes,18,Senior
+Female,Hispanic or Latino,No,20,Senior
+Female,White,Yes,22,Freshmen
+Female,White,Yes,20,Junior
+Male,Hispanic or Latino,Yes,22,Sophomore
+Male,White,No,21,Junior
+Male,White,Yes,18,Sophomore
+Male,Asian,Yes,18,Freshmen
+Male,White,Yes,19,Freshmen
+Female,Asian,Yes,21,Senior
+Female,White,Yes,21,Junior
+Female,White,Yes,21,Junior
+Male,White,No,19,Junior
+Female,Black or African American,Yes,21,Senior
+Male,Black or African American,Yes,22,Junior
+Female,White,No,21,Senior
+Male,White,Yes,22,Junior
+Female,White,No,21,Junior
+Male,Hispanic or Latino,Yes,19,Senior
+Male,White,No,22,Senior
+Male,Hispanic or Latino,Yes,19,Junior
+Male,Hispanic or Latino,Yes,18,Junior
+Male,White,No,20,Junior
+Male,White,Yes,18,Senior
+Male,White,Yes,18,Freshmen
+Female,White,No,22,Sophomore
+Male,White,No,19,Senior
+Male,White,No,19,Senior
+Female,White,Yes,18,Junior
+Female,White,Yes,21,Junior
+Male,White,Yes,21,Sophomore
+Female,White,Yes,20,Senior
+Male,White,Yes,22,Sophomore
+Male,White,Yes,20,Senior
+Male,White,Yes,21,Freshmen
+Male,White,No,20,Junior
+Male,White,Yes,18,Senior
+Male,Asian,Yes,20,Sophomore
+Female,White,Yes,20,Junior
+Male,Black or African American,No,20,Junior
+Female,Hispanic or Latino,Yes,21,Senior
+Male,White,Yes,18,Freshmen
+Male,White,No,21,Junior
+Female,Black or African American,Yes,20,Sophomore
+Male,White,No,22,Senior
+Female,Black or African American,Yes,19,Senior
+Male,Black or African American,Yes,22,Freshmen
+Male,White,Yes,19,Senior
+Female,White,Yes,18,Junior
+Female,White,Yes,21,Junior
+Female,White,Yes,22,Senior
+Female,White,No,19,Senior
+Male,White,No,22,Sophomore
+Male,Hispanic or Latino,Yes,20,Junior
+Female,White,Yes,20,Senior
+Male,White,Yes,19,Sophomore
+Male,White,No,22,Senior
+Male,White,No,19,Junior
+Male,Asian,Yes,18,Junior
+Male,White,Yes,19,Senior
+Male,White,Yes,19,Senior
+Female,White,No,18,Senior
+Female,White,Yes,22,Sophomore
+Female,White,Yes,21,Sophomore
+Male,White,Yes,19,Junior
+Female,Black or African American,Yes,18,Sophomore
+Male,White,Yes,20,Junior
+Female,White,No,22,Sophomore
+Male,White,No,22,Freshmen
+Female,White,Yes,20,Senior
+Male,White,Yes,20,Senior
+Male,Black or African American,Yes,22,Freshmen
+Female,White,Yes,18,Junior
+Male,Hispanic or Latino,No,22,Senior
+Male,White,Yes,22,Senior
+Female,White,No,22,Senior
+Male,White,Yes,22,Junior
+Male,White,Yes,18,Junior
+Male,White,No,18,Junior
+Male,White,No,22,Senior
+Male,Black or African American,Yes,20,Sophomore
+Female,White,Yes,21,Senior
+Male,White,No,21,Senior
+Male,Asian,Yes,19,Junior
+Male,White,No,22,Junior
+Female,White,No,21,Sophomore
+Female,White,No,19,Freshmen
+Female,Hispanic or Latino,Yes,22,Freshmen
+Male,White,No,20,Junior
+Female,White,Yes,21,Junior
+Male,White,Yes,19,Sophomore
+Male,Hispanic or Latino,Yes,20,Freshmen
+Male,White,Yes,22,Sophomore
+Male,White,Yes,20,Sophomore
+Male,White,No,20,Sophomore
+Male,White,Yes,20,Sophomore
+Female,White,Yes,21,Senior
+Male,White,Yes,21,Junior
+Female,White,Yes,22,Senior
+Female,Black or African American,Yes,20,Sophomore
+Female,Asian,No,20,Senior
+Female,White,Yes,21,Senior
+Female,White,No,18,Junior
+Male,White,Yes,22,Senior
+Male,Black or African American,Yes,22,Senior
+Male,White,Yes,22,Sophomore
+Male,White,Yes,18,Junior
+Male,Hispanic or Latino,No,19,Senior
+Male,White,No,22,Sophomore
+Female,White,Yes,18,Sophomore
+Female,White,Yes,22,Junior
+Female,Black or African American,Yes,20,Senior
+Male,White,Yes,21,Senior
+Female,White,Yes,18,Sophomore
+Male,White,No,21,Junior
+Female,White,No,18,Sophomore
+Male,White,Yes,18,Senior
+Female,White,Yes,21,Freshmen
+Female,White,Yes,20,Junior
+Male,White,No,20,Freshmen
+Female,Hispanic or Latino,No,21,Junior
+Male,White,Yes,19,Senior
+Female,White,Yes,22,Junior
+Female,White,Yes,20,Senior
+Male,Hispanic or Latino,Yes,21,Sophomore
+Female,Asian,Yes,22,Sophomore
+Male,White,Yes,20,Freshmen
+Male,White,No,21,Junior
+Female,White,Yes,22,Junior
+Female,White,Yes,18,Junior
+Male,White,Yes,22,Senior
+Male,White,No,22,Junior
+Male,White,Yes,19,Junior
+Female,White,No,18,Junior
+Female,White,Yes,18,Junior
+Female,White,Yes,18,Junior
+Female,Black or African American,Yes,18,Senior
+Male,White,Yes,19,Junior
+Female,White,No,20,Junior
+Male,Hispanic or Latino,No,22,Senior
+Female,White,Yes,21,Senior
+Female,White,No,20,Freshmen
+Male,White,Yes,19,Senior
+Female,White,Yes,22,Junior
+Male,Hispanic or Latino,Yes,22,Junior
+Female,White,Yes,22,Junior
+Female,White,Yes,18,Senior
+Male,Black or African American,Yes,19,Senior
+Male,Black or African American,No,19,Sophomore
+Male,White,No,20,Sophomore
+Male,White,Yes,22,Senior
+Female,White,Yes,18,Senior
+Male,White,Yes,21,Senior
+Male,White,Yes,19,Junior
+Male,White,Yes,22,Senior
+Female,White,Yes,20,Senior
+Male,Black or African American,Yes,21,Senior
+Female,White,No,18,Senior
+Male,Asian,No,21,Junior
+Female,White,Yes,22,Freshmen
+Female,White,No,21,Senior
+Male,White,Yes,22,Senior
+Female,White,No,21,Senior
+Male,White,Yes,21,Freshmen
+Female,White,Yes,20,Junior
+Male,White,Yes,18,Sophomore
+Male,White,Yes,21,Sophomore

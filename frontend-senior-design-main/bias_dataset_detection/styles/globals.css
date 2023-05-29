@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .navBtn {
+        @apply py-4 px-12 text-lg cursor-pointer hover:scale-110 duration-100 ease-out font-body font-medium dark:text-zinc-200;
+    }
+    .mobileNavItem {
+        @apply block flex-none justify-center py-4 px-4 text-base font-body hover:bg-[#9e9ff0] dark:hover:bg-[#6869AE] transition-all duration-75 ease-out dark:text-zinc-200;
+    }
+}
