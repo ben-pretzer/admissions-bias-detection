@@ -1,2 +1,0 @@
-# Frontend code Senior Design
-
